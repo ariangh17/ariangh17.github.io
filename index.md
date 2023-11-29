@@ -1,4 +1,4 @@
-# Arian Gholamipours Great Portfolio
+# Arian Gholamipour's Great Portfolio
 I am a computer science student who is graduating in 2026.
 ## CPSC 120 LABS
 
